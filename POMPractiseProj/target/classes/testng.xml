@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name ="Free CRM Application Automation of POM framework">
+	<test name="Free CRM Application Automation">
+		<classes>		
+		<class name ="com.CRM.qa.Testcases.LoginPageTest"/>
+		<class name ="com.CRM.qa.Testcases.HomePageTest"/>
+		<class name ="com.CRM.qa.Testcases.ContactsPageTest"/>
+		</classes>
+	</test>
+</suite>	
